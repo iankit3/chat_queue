@@ -1,5 +1,5 @@
 ## chat_queue  
- - pub/sub using Apache Kafka
+ -- pub/sub using Apache Kafka
 
 #How to RUN 
  
