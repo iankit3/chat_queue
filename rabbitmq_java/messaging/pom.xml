@@ -21,7 +21,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
@@ -49,12 +49,12 @@
 		</dependency>
 		<dependency>
 			    <groupId>or.slf4j</groupId>
-			    <artifactId>slf4j-api</artifactId>
+				<artifactId>slf4j-api</artifactId>
 			    <version>1.7.26</version>
 			    <scope>system</scope>
 			    <systemPath>${basedir}/lib/slf4j-api-1.7.26.jar</systemPath>
 		</dependency>
-	</dependencies>
+ </dependencies>
 
 	<build>
 		<plugins>
